@@ -32,6 +32,26 @@ My research interests lie broadly in language model - check my [publications](ht
 
         <tr>
             <td style="padding:8px;width:30%;vertical-align:middle;border:none;"> 
+                <img src="images/edu-ustc.png" width="220">
+            </td>
+            
+            <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
+                <b><a href="https://www.ustc.edu.cn/">University of Science and Technology of China</a></b>
+                <br>
+                B.S. in <a href="https://saids.ustc.edu.cn/main.htm">School of Artificial Intelligence and Data Science</a>
+                <br>
+                Sep. 2025 -- Jul. 2028
+            </td>            
+        </tr>
+        
+    </tbody>
+</table>
+
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:0;margin-left:0;font-size:0.95em;">
+    <tbody>
+
+        <tr>
+            <td style="padding:8px;width:30%;vertical-align:middle;border:none;"> 
                 <img src="images/edu-zjgsu.png" width="220">
             </td>
             
