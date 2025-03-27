@@ -9,11 +9,13 @@ redirect_from:
 ---
 
 <!-- ## About me -->
-<br>Hi! I am Zijing Cai. Previously, I received a B.S. in Computer Science and Technology(advised by [Prof. Hua Zhang](https://scie.zjgsu.edu.cn/zh-hans/node/381)) from the Zhejiang Gongshang University in 2024.
+<br>Hi! I am Zijing Cai. I am a first-year M.S. candidate at the University of Science Technology of China.
+
+Previously, I received a B.S. in Computer Science and Technology(advised by [Prof. Hua Zhang](https://scie.zjgsu.edu.cn/zh-hans/node/381)) from the Zhejiang Gongshang University in 2024.
 
 My research interests lie broadly in language model - check my [publications](https://aaronzijingcai.github.io//publications/) or [CV(PDF)](https://aaronzijingcai.github.io//cv/) for more information. I am open to other topics as well; feel free to shoot me an email if you'd like to chat! 
 
-(This webpage was last updated on **Jan. 2025**)
+(This webpage was last updated on **Mar. 2025**)
 
 ## Research Interests
 * **Pre-trained Language Model**, investigating how to leverage the rich prior knowledge in pre-trained language models to accomplish general tasks, with a particular focus on machine reading comprehension and prompt-based learning frameworks.
@@ -38,7 +40,7 @@ My research interests lie broadly in language model - check my [publications](ht
             <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
                 <b><a href="https://www.ustc.edu.cn/">University of Science and Technology of China</a></b>
                 <br>
-                B.S. in <a href="https://saids.ustc.edu.cn/main.htm">School of Artificial Intelligence and Data Science</a>
+                M.S. in <a href="https://saids.ustc.edu.cn/main.htm">School of Artificial Intelligence and Data Science</a>
                 <br>
                 Sep. 2025 -- Jul. 2028
             </td>            
