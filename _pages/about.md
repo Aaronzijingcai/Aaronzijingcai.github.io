@@ -9,13 +9,13 @@ redirect_from:
 ---
 
 <!-- ## About me -->
-<br>Hi! I am Zijing Cai. I am a first-year M.S. candidate at the University of Science Technology of China.
+<br>Hi! I am Zijing Cai, a pre-graduate student in the School of Artificial Intelligence and Data Science at the University of Science and Technology of China. I'm member of the [LDS Laboratory](https://data-science.ustc.edu.cn/_upload/tpl/15/04/5380/template5380/main.htm), (advised by [Prof. Fuli Feng](http://staff.ustc.edu.cn/~fengfl/)).
 
 Previously, I received a B.S. in Computer Science and Technology(advised by [Prof. Hua Zhang](https://scie.zjgsu.edu.cn/zh-hans/node/381)) from the Zhejiang Gongshang University in 2024.
 
-My research interests lie broadly in language model - check my [publications](https://aaronzijingcai.github.io//publications/) or [CV(PDF)](https://aaronzijingcai.github.io//cv/) for more information. I am open to other topics as well; feel free to shoot me an email if you'd like to chat! 
+My research interests lie broadly in large language model - check my [publications](https://aaronzijingcai.github.io//publications/) or [CV(PDF)](https://aaronzijingcai.github.io//cv/) for more information. I am open to other topics as well, feel free to shoot me an email if you'd like to chat! 
 
-(This webpage was last updated on **Mar. 2025**)
+(This webpage was last updated on **Apr. 2025**)
 
 ## Research Interests
 * **Pre-trained Language Model**, investigating how to leverage the rich prior knowledge in pre-trained language models to accomplish general tasks, with a particular focus on machine reading comprehension and prompt-based learning frameworks.
@@ -72,7 +72,6 @@ My research interests lie broadly in language model - check my [publications](ht
 ## Awards
 * [_2022_] Zhejiang Provincial Government Scholarship (Top 5%)
 * [_2022_] Excellent Student at Zhejiang Gongshang University (Top 8%)
-* [_2022_] Second prize of China University Software Service Outsourcing Award (Top 2%)
 
 
 ## Sitemap
