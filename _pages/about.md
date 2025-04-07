@@ -11,7 +11,7 @@ redirect_from:
 <!-- ## About me -->
 <br>Hi! I am Zijing Cai, a pre-graduate student in the School of Artificial Intelligence and Data Science at the University of Science and Technology of China. I'm member of the [LDS Laboratory](https://data-science.ustc.edu.cn/_upload/tpl/15/04/5380/template5380/main.htm), (advised by [Prof. Fuli Feng](http://staff.ustc.edu.cn/~fengfl/)).
 
-Previously, I received a B.S. in Computer Science and Technology(advised by [Prof. Hua Zhang](https://scie.zjgsu.edu.cn/zh-hans/node/381)) from the Zhejiang Gongshang University in 2024.
+Previously, I received a B.S. in Computer Science and Technology(advised by [Prof. Hua Zhang](https://mypage.zjgsu.edu.cn/scie/zh2/main.htm)) from the Zhejiang Gongshang University in 2024.
 
 My research interests lie broadly in large language model - check my [publications](https://aaronzijingcai.github.io//publications/) or [CV(PDF)](https://aaronzijingcai.github.io//cv/) for more information. I am open to other topics as well, feel free to shoot me an email if you'd like to chat! 
 
