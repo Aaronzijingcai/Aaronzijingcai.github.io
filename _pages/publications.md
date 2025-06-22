@@ -23,7 +23,7 @@ author_profile: true
 - **Reconstructing representations using diffusion models for multimodal  sentiment analysis through reading comprehension**\
   Hua Zhang, Yongjian Yan, <span style="color:darkblue">**Zijing Cai**</span>, Peiqian Zhan, Bi Chen, Bo Jiang, Bo Xie. \
   *Applied Soft Computing-2025* [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S1568494624011207) [[bibtex](https://dblp.org/rec/journals/asc/ZhangYCZCJX24.html?view=bibtex)]
-  <a class="github-button" href="" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">MRC-D3AE</a>
+  <a class="github-button" href="https://github.com/YYJ324/MRC-D3AE" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">MRC-D3AE</a>
 
 - **RCFIND: Reading Comprehension Powered Semantic Fusion Network for Identification of N-ary Drug Combinations**\
   Hua Zhang, Peiqian Zhan, Cheng Yang, Yongjian Yan, <span style="color:darkblue">**Zijing Cai**</span>, Guogen Shan, Bo Jiang, Bi Chen. \
