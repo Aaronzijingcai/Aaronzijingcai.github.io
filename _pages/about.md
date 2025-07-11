@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <!-- ## About me -->
-<br>Hi! I am Zijing Cai, a pre-graduate student in the School of Artificial Intelligence and Data Science at the University of Science and Technology of China. I'm member of the [LDS Laboratory](https://data-science.ustc.edu.cn/_upload/tpl/15/04/5380/template5380/main.htm), (advised by [Prof. Fuli Feng](http://staff.ustc.edu.cn/~fengfl/)).
+<br>Hi! I am Zijing Cai, an candidate in the School of Artificial Intelligence and Data Science at the University of Science and Technology of China. I'm member of the [LDS Laboratory](https://data-science.ustc.edu.cn/_upload/tpl/15/04/5380/template5380/main.htm), (advised by [Prof. Fuli Feng](http://staff.ustc.edu.cn/~fengfl/)).
 
 Previously, I received a B.S. in Computer Science and Technology(advised by [Prof. Hua Zhang](https://mypage.zjgsu.edu.cn/scie/zh2/main.htm)) from the Zhejiang Gongshang University in 2024.
 
@@ -74,7 +74,7 @@ My research interests lie broadly in large language model - check my [publicatio
 * [_2022_] Excellent Student at Zhejiang Gongshang University (Top 8%)
 
 ## Professional Services
-* Journal Reviewing: PR 2024
+* Journal Reviewing: EAAI 2025
 
 ## Sitemap
-<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=406&t=n&d=agXuytwaVAdo2VIdVoUuUqQzAzcCxT1HfNom5U8dslQ&co=c7e2e4&ct=ffffff&cmo=488b87&cmn=bd514a'></script>
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=btLq34XI2nnGpd1ApP8U3fFsJ-GFGgsdYasHz405qf0&cl=ffffff&w=a"></script>
