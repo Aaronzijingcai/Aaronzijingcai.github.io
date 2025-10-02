@@ -9,20 +9,19 @@ redirect_from:
 ---
 
 <!-- ## About me -->
-<br>Hi! I am Zijing Cai, an candidate in the School of Artificial Intelligence and Data Science at the University of Science and Technology of China. I'm member of the [LDS Laboratory](https://data-science.ustc.edu.cn/_upload/tpl/15/04/5380/template5380/main.htm), (advised by [Prof. Fuli Feng](http://staff.ustc.edu.cn/~fengfl/)).
+<br>I am a first-year M.Eng student at the University of Science and Technology of China (USTC) and a member of the [LDS Laboratory](https://data-science.ustc.edu.cn/_upload/tpl/15/04/5380/template5380/main.htm). I am fortunate to be co-advised by Prof. [Fuli Feng](https://fulifeng.github.io/) (USTC) and Prof. [Fengbin Zhu](https://fengbinzhu.github.io/) (NUS)
 
-Previously, I received a B.S. in Computer Science and Technology(advised by [Prof. Hua Zhang](https://mypage.zjgsu.edu.cn/scie/zh2/main.htm)) from the Zhejiang Gongshang University in 2024.
+Previously, I received a B.S. in Computer Science and Technology from the Zhejiang Gongshang University in 2024, where I was advised by [Prof. Hua Zhang](https://mypage.zjgsu.edu.cn/scie/zh2/main.htm)
 
-My research interests lie broadly in large language model - check my [publications](https://aaronzijingcai.github.io//publications/) or [CV(PDF)](https://aaronzijingcai.github.io//cv/) for more information. I am open to other topics as well, feel free to shoot me an email if you'd like to chat! 
+My primary research interests are outlined below. For a comprehensive list of my work, please see my [Publications](https://aaronzijingcai.github.io/publications/) or [CV](https://aaronzijingcai.github.io/cv/). I am always open to discussing new ideas and potential collaborations—feel free to reach out via email!
 
-(This webpage was last updated on **Jul. 2025**)
+(This webpage was last updated on **Oct. 2025**)
 
 ## Research Interests
-* **Pre-trained Language Model**, investigating how to leverage the rich prior knowledge in pre-trained language models to accomplish general tasks, with a particular focus on machine reading comprehension and prompt-based learning frameworks.
-* **Contrastive Learning**, focusing on leveraging contrastive learning to enhance the quality of embeddings and to enable more nuanced and context-aware language model performances.
-* **Dual Learning**, utilizing the primal-dual structure between machine learning tasks to obtain effective feedback/regularization, guiding and reinforcing the learning process, thereby reducing the requirements for large-scale learning.
+* **Visual Document Retrieval(VDR)**, concentrating on modeling the deep logical and semantic connections between multimodal queries (textual and visual) and a document's content, layout, and structure.
+* **Novel Attention Mechanisms**, focusing on enhancing semantic feature extraction by designing dual-view models that capture relationships from both token and feature perspectives ([MP-TFWA](https://www.sciencedirect.com/science/article/pii/S0031320324005338)).
 
-## Recent news
+## News
 
 * *Jun, 2024* [**Multi-schema prompting powered token-feature woven attention network for short text classification**](https://www.sciencedirect.com/science/article/pii/S0031320324005338) accepted to **Pattern Recognition 2024**!
 
