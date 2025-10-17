@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zijing Cai (蔡子靖)"
 title_separator          : "-"
 name                     : &name "Zijing Cai"
-description              : &description "Hi there! I am a 0th year M.S. student at USTC."
+description              : &description "Hi there! I am a 1th year M.S. student at USTC."
 url                      : https://aaronzijingcai.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "aaronzijingcai.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Zijing Cai"
   avatar           : "avatar.jpg"
-  bio              : "0th year M.S. student at USTC"
+  bio              : "1th year M.S. student at USTC"
   location         : "He Fei, China"
   employer         :
   pubmed           :

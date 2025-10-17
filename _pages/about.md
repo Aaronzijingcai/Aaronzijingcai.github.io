@@ -9,17 +9,15 @@ redirect_from:
 ---
 
 <!-- ## About me -->
-<br>I am a first-year M.Eng student at the University of Science and Technology of China (USTC) and a member of the [LDS Laboratory](https://data-science.ustc.edu.cn/_upload/tpl/15/04/5380/template5380/main.htm). I am fortunate to be co-advised by Prof. [Fuli Feng](https://fulifeng.github.io/) (USTC) and Prof. [Fengbin Zhu](https://fengbinzhu.github.io/) (NUS)
+<br>I am a first year M.Eng student at the University of Science and Technology of China (USTC) and a member of the [LDS Laboratory](https://data-science.ustc.edu.cn/_upload/tpl/15/04/5380/template5380/main.htm), supervised by [Prof. Fuli Feng](https://fulifeng.github.io/) (USTC) and [Prof. Fengbin Zhu](https://fengbinzhu.github.io/) (NUS)
 
-Previously, I received a B.S. in Computer Science and Technology from the Zhejiang Gongshang University in 2024, where I was advised by [Prof. Hua Zhang](https://mypage.zjgsu.edu.cn/scie/zh2/main.htm)
+Previously, I received my B.S. in Computer Science from the Zhejiang Gongshang University in 2024, supervised by [Prof. Hua Zhang](https://mypage.zjgsu.edu.cn/scie/zh2/main.htm)
 
-My primary research interests are outlined below. For a comprehensive list of my work, please see my [Publications](https://aaronzijingcai.github.io/publications/) or [CV](https://aaronzijingcai.github.io/cv/). I am always open to discussing new ideas and potential collaborations—feel free to reach out via email!
-
-(This webpage was last updated on **Oct. 2025**)
+(Last updated at **Oct. 2025**)
 
 ## Research Interests
 * **Visual Document Retrieval(VDR)**, concentrating on modeling the deep logical and semantic connections between multimodal queries (textual and visual) and a document's content, layout, and structure.
-* **Novel Attention Mechanisms**, focusing on enhancing semantic feature extraction by designing dual-view models that capture relationships from both token and feature perspectives ([MP-TFWA](https://www.sciencedirect.com/science/article/pii/S0031320324005338)).
+* **Dual Attention Mechanisms**, focusing on enhancing semantic feature extraction by designing dual-view models that capture relationships from both token and feature perspectives ([MP-TFWA](https://www.sciencedirect.com/science/article/pii/S0031320324005338)).
 
 ## News
 
@@ -70,10 +68,9 @@ My primary research interests are outlined below. For a comprehensive list of my
 
 ## Awards
 * [_2022_] Zhejiang Provincial Government Scholarship (Top 5%)
-* [_2022_] Excellent Student at Zhejiang Gongshang University (Top 8%)
 
 ## Professional Services
 * Journal Reviewing: EAAI 2025
 
 ## Sitemap
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=btLq34XI2nnGpd1ApP8U3fFsJ-GFGgsdYasHz405qf0&cl=ffffff&w=a"></script>
+<a href='https://mapmyvisitors.com/web/1byms'  title='Visit tracker'><img src='https://mapmyvisitors.com/map.png?cl=ffffff&w=a&t=n&d=btLq34XI2nnGpd1ApP8U3fFsJ-GFGgsdYasHz405qf0&co=2d78ad&ct=ffffff'/></a>
