@@ -1,0 +1,102 @@
+1:"$Sreact.fragment"
+2:I[3719,["589","static/chunks/589-ebc20544f75a14cb.js","540","static/chunks/540-6a7efa69bc071c87.js","177","static/chunks/app/layout-f1eb86dedbba792e.js"],"ThemeProvider"]
+3:I[768,["589","static/chunks/589-ebc20544f75a14cb.js","540","static/chunks/540-6a7efa69bc071c87.js","177","static/chunks/app/layout-f1eb86dedbba792e.js"],"default"]
+4:I[7555,[],""]
+5:I[1295,[],""]
+6:I[2548,["589","static/chunks/589-ebc20544f75a14cb.js","540","static/chunks/540-6a7efa69bc071c87.js","177","static/chunks/app/layout-f1eb86dedbba792e.js"],"default"]
+8:I[9665,[],"MetadataBoundary"]
+a:I[9665,[],"OutletBoundary"]
+d:I[4911,[],"AsyncMetadataOutlet"]
+f:I[9665,[],"ViewportBoundary"]
+11:I[6614,[],""]
+:HL["/_next/static/css/9566fba5ffd9ebde.css","style"]
+0:{"P":null,"b":"VCYwUbWkgePclPE0Xgd-2","p":"","c":["","blog",""],"i":false,"f":[[["",{"children":[["slug","blog","d"],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/9566fba5ffd9ebde.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"scroll-smooth","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"icon","href":"/favicon.svg","type":"image/svg+xml"}],["$","link",null,{"rel":"dns-prefetch","href":"https://google-fonts.jialeliu.com"}],["$","link",null,{"rel":"preconnect","href":"https://google-fonts.jialeliu.com","crossOrigin":""}],["$","link",null,{"rel":"preload","as":"style","href":"https://google-fonts.jialeliu.com/css2?family=Inter:wght@300;400;500;600;700&family=Crimson+Text:ital,wght@0,400;0,600;1,400&display=swap"}],["$","link",null,{"rel":"stylesheet","id":"gfonts-css","href":"https://google-fonts.jialeliu.com/css2?family=Inter:wght@300;400;500;600;700&family=Crimson+Text:ital,wght@0,400;0,600;1,400&display=swap","media":"print"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n              (function(){\n                var l = document.getElementById('gfonts-css');\n                if (!l) return;\n                if (l.media !== 'all') {\n                  l.addEventListener('load', function(){ try { l.media = 'all'; } catch(e){} });\n                }\n              })();\n            "}}],["$","noscript",null,{"children":["$","link",null,{"rel":"stylesheet","href":"https://google-fonts.jialeliu.com/css2?family=Inter:wght@300;400;500;600;700&family=Crimson+Text:ital,wght@0,400;0,600;1,400&display=swap"}]}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n              try {\n                const theme = localStorage.getItem('theme-storage');\n                const parsed = theme ? JSON.parse(theme) : null;\n                const setting = parsed?.state?.theme || 'system';\n                const prefersDark = typeof window !== 'undefined' && window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;\n                const effective = setting === 'dark' ? 'dark' : (setting === 'light' ? 'light' : (prefersDark ? 'dark' : 'light'));\n                var root = document.documentElement;\n                root.classList.add(effective);\n                root.setAttribute('data-theme', effective);\n              } catch (e) {\n                var root = document.documentElement;\n                root.classList.add('light');\n                root.setAttribute('data-theme', 'light');\n              }\n            "}}]]}],["$","body",null,{"className":"font-sans antialiased","children":["$","$L2",null,{"children":[["$","$L3",null,{"items":[{"title":"About","type":"page","target":"about","href":"/"},{"title":"Publications","type":"page","target":"publications","href":"/publications"},{"title":"Internship","type":"page","target":"internship","href":"/internship"},{"title":"Blog","type":"page","target":"blog","href":"/blog"},{"title":"Services","type":"page","target":"services","href":"/services"},{"title":"CV","type":"page","target":"cv","href":"/cv"}],"siteTitle":"Zijing Cai","enableOnePageMode":false}],["$","main",null,{"className":"min-h-screen pt-16 lg:pt-20","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L6",null,{"lastUpdated":"March 19, 2026"}]]}]}]]}]]}],{"children":[["slug","blog","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",["$","$L8",null,{"children":"$L9"}],null,["$","$La",null,{"children":["$Lb","$Lc",["$","$Ld",null,{"promise":"$@e"}]]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","jvEkKda8FijMl4t5hBbjo",{"children":[["$","$Lf",null,{"children":"$L10"}],null]}],null]}],false]],"m":"$undefined","G":["$11","$undefined"],"s":false,"S":true}
+12:"$Sreact.suspense"
+13:I[4911,[],"AsyncMetadata"]
+15:I[6606,["589","static/chunks/589-ebc20544f75a14cb.js","63","static/chunks/63-0d5ebfce210dba9a.js","261","static/chunks/261-2d0fb262dbc96e5e.js","748","static/chunks/748-b1f795268029093a.js","182","static/chunks/app/%5Bslug%5D/page-fb53e5f6504763d1.js"],"default"]
+9:["$","$12",null,{"fallback":null,"children":["$","$L13",null,{"promise":"$@14"}]}]
+16:T7ed,# 博客功能使用说明
+
+## 功能特性
+
+✅ **搜索功能** - 根据标题和描述搜索博客
+✅ **分类筛选** - 按分类浏览博客文章
+✅ **标签筛选** - 按标签过滤内容
+✅ **阅读时间** - 自动计算文章阅读时间
+✅ **封面图片** - 支持文章封面和内容图片
+✅ **响应式设计** - 完美适配移动端和桌面端
+
+## 如何添加新博客文章
+
+1. 在 `content/posts/` 目录下创建新的 `.md` 文件
+2. 文件名将作为 URL slug，例如 `my-first-post.md` 对应 `/blog/my-first-post`
+3. 每个博客文章需要包含 frontmatter 元数据
+
+## 博客文章格式
+
+```markdown
+---
+title: "文章标题"
+date: "2026-03-19"
+description: "文章简介，会显示在列表页"
+category: "分类名称"
+tags: ["tag1", "tag2", "tag3"]
+author: "作者名"
+image: "/path/to/cover-image.png"
+---
+
+# 文章内容
+
+这里是正文...
+
+## 添加图片
+
+![图片描述](/path/to/image.png)
+
+## 添加代码
+
+\`\`\`python
+def hello():
+    print("Hello World")
+\`\`\`
+```
+
+## 字段说明
+
+- `title` (必填): 文章标题
+- `date` (必填): 发布日期，格式 YYYY-MM-DD
+- `description` (推荐): 文章简介，显示在列表页
+- `category` (可选): 文章分类，用于筛选
+- `tags` (可选): 标签数组，用于筛选和展示
+- `author` (可选): 作者名称
+- `image` (可选): 封面图片路径，相对于 `public` 目录
+
+## 图片使用
+
+1. 将图片放在 `public/` 目录下（例如 `public/blog/my-image.png`）
+2. 在 markdown 中使用相对路径引用：`![描述](/blog/my-image.png)`
+3. 封面图片在 frontmatter 中指定：`image: "/blog/cover.png"`
+
+## 示例
+
+参考 `content/posts/welcome.md` 文件查看完整示例。
+
+## 访问博客
+
+- 博客列表页：`/blog`
+- 博客详情页：`/blog/[文章slug]`
+
+## 提示
+
+- 阅读时间会根据文章字数自动计算（中文按字符，英文按单词）
+- 支持 Markdown 所有标准语法
+- 图片会自动优化和响应式处理
+- 搜索功能支持标题和描述的模糊匹配
+
+
+7:["$","div",null,{"className":"max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12","children":[["$","h1",null,{"className":"text-4xl font-bold text-primary mb-8","children":"Blog"}],["$","$L15",null,{"posts":[{"slug":"README","title":"Untitled","date":"2026-04-20T12:51:26.118Z","description":"$undefined","tags":[],"category":"$undefined","author":"$undefined","image":"$undefined","content":"$16","readingTime":2},{"slug":"welcome","title":"Blog Demo","date":"2026-03-19","description":"This is a demo blog post showing all available features","tags":["demo","example"],"category":"Demo","author":"Zijing Cai","image":"/papers/MURE.png","content":"\n# Blog Demo\n\nThis is a demo blog post to showcase the blog functionality.\n\n## Features\n\nThis blog system supports:\n\n- **Search** - Search by title and description\n- **Categories** - Filter posts by category\n- **Tags** - Filter posts by tags\n- **Reading Time** - Automatically calculated\n- **Images** - Cover images and inline images\n- **Table of Contents** - Left sidebar navigation\n\n## Adding New Posts\n\nCreate a new `.md` file in `content/posts/` directory with frontmatter:\n\n```markdown\n---\ntitle: \"Your Title\"\ndate: \"2026-03-19\"\ndescription: \"Brief description\"\ncategory: \"Category Name\"\ntags: [\"tag1\", \"tag2\"]\nauthor: \"Author Name\"\nimage: \"/path/to/image.png\"\n---\n\nYour content here...\n```\n\n## Markdown Support\n\nYou can use all standard Markdown syntax.\n\n### Code Blocks\n\n```python\ndef hello_world():\n    print(\"Hello, World!\")\n```\n\n### Lists\n\n- Item 1\n- Item 2\n- Item 3\n\n### Links\n\n[Visit my homepage](/)\n\nThat's it! Start writing your own posts.\n\n\n\n","readingTime":1}],"categories":["Demo"],"tags":["demo","example"]}]]}]
+c:null
+10:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+b:null
+14:{"metadata":[["$","title","0",{"children":"Blog | Zijing Cai"}],["$","meta","1",{"name":"description","content":"My thoughts and writings."}],["$","meta","2",{"name":"author","content":"Zijing Cai"}],["$","meta","3",{"name":"keywords","content":"Zijing Cai,PhD,Research,USTC"}],["$","meta","4",{"name":"creator","content":"Zijing Cai"}],["$","meta","5",{"name":"publisher","content":"Zijing Cai"}],["$","meta","6",{"property":"og:title","content":"Zijing Cai"}],["$","meta","7",{"property":"og:description","content":"M.Eng. student at the USTC."}],["$","meta","8",{"property":"og:site_name","content":"Zijing Cai's Academic Website"}],["$","meta","9",{"property":"og:locale","content":"en_US"}],["$","meta","10",{"property":"og:type","content":"website"}],["$","meta","11",{"name":"twitter:card","content":"summary"}],["$","meta","12",{"name":"twitter:title","content":"Zijing Cai"}],["$","meta","13",{"name":"twitter:description","content":"M.Eng. student at the USTC."}],["$","link","14",{"rel":"icon","href":"/favicon.svg"}]],"error":null,"digest":"$undefined"}
+e:{"metadata":"$14:metadata","error":null,"digest":"$undefined"}
