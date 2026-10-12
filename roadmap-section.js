@@ -54,7 +54,7 @@
 
     var description = document.createElement("p");
     description.className = "text-base text-neutral-700 dark:text-neutral-300 leading-relaxed mb-4";
-    description.textContent = "My research interests center on native multimodal self-evolving agents. Recently, I have primarily focused on multimodal DeepResearch agents.";
+    description.textContent = "My research focuses on building efficient and effective multimodal agents. Recently, I have been applying this perspective to multimodal DeepResearch agents.";
 
     var link = document.createElement("a");
     link.href = "/roadmap.png";

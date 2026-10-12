@@ -54,11 +54,15 @@ f:I[9665,[],"ViewportBoundary"]
   <span>Shenzhen, China</span>
 </div>
 <div style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 0.5rem;">
-  <em>Algorithm research intern</em>
-  <em>Mar. 2026 - Now</em>
+  <em>Multimodal LLM Post-Training Intern</em>
+  <em>Mar. 2026 - Oct. 2026</em>
 </div>
 
-- **Research Focus:** Agent
+- Led the upgrade from a Qwen3 text-SFT baseline to a Qwen3-VL multimodal post-training pipeline for Douyin advertising-comment ranking, covering Agentic CPT, SFT, RFT, and inference optimization; supported a business impact of over RMB 1 billion in incremental revenue.
+- Built Agentic CPT data and evaluation workflows with QA, Playbook-based pseudo-QA, replay corpora, visual hard negatives, Skills, and five rounds of AutoResearch; CPT+SFT improved F1 by **4.8%** over pure SFT.
+- Designed token-level SFT classification with an LM Head for JEV-like interfaces, improving F1 by **1.8%**; developed reward-based RFT with REINFORCE++/DAPO and Pass@2-6 filtering, yielding a further **0.6%** F1 gain.
+- Optimized Qwen3-VL inference with FP8 quantization, xLLM serving, and Prefix Cache, increasing peak QPS from **34 to 105 (3.1x)** and reducing deployment cost by **60%** at comparable model quality.
+- Open-sourced the technical solution internally through **ByteTech** and supported adoption by **TikTok** and other teams.
 
 ## Skills
 
