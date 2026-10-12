@@ -90,11 +90,29 @@
     syncRoadmap();
   }
 
+  function forceStaticNavigation() {
+    document.addEventListener("click", function (event) {
+      if (event.defaultPrevented || event.button !== 0 || event.metaKey || event.ctrlKey || event.shiftKey || event.altKey) return;
+
+      var anchor = event.target.closest("a");
+      if (!anchor || anchor.target === "_blank" || anchor.hasAttribute("download")) return;
+
+      var url = new URL(anchor.href, window.location.href);
+      if (url.origin !== window.location.origin || url.hash) return;
+
+      event.preventDefault();
+      event.stopImmediatePropagation();
+      window.location.assign(url.href);
+    }, true);
+  }
+
   if (document.readyState === "loading") {
     document.addEventListener("DOMContentLoaded", syncEnhancements, { once: true });
   } else {
     syncEnhancements();
   }
+
+  forceStaticNavigation();
 
   new MutationObserver(syncEnhancements).observe(document.body, {
     childList: true,
